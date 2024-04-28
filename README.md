@@ -20,5 +20,8 @@
 **- коэфициент конверсии пользователя в премиум пользователя (CR_Prem_User)**   
 **- коэфициент конверсии пользователя в не премиум пользователя (CR_NoPrem_User)** 
 
-### Анализ проведен на Python, выводы в файле A_B_test.ipynb
+### Анализ проведен на Python.  
+### Для работы над проектом были использованы библиотеки:  
+**pandas, numpy, pingouin, seaborn, matplotlib.pyplot, scipy.stats, plotly.express.**  
+### выводы в файле A_B_test.ipynb
 
